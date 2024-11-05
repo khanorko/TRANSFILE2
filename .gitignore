@@ -1,0 +1,17 @@
+# Virtual Environments
+venv/
+ENV/
+env/
+
+# Distribution and Build Directories
+dist/
+build/
+
+# PyInstaller
+*.spec
+
+# Other Python-related ignores
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
